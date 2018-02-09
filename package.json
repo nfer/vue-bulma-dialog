@@ -1,0 +1,21 @@
+{
+  "name": "vue-bulma-dialog2",
+  "version": "0.0.1",
+  "description": "Dialog component for Vue Bulma",
+  "main": "src/Dialog.vue",
+  "peerDependencies": {
+    "bulma": ">=0.2",
+    "vue": ">=2"
+  },
+  "repository": "nfer/vue-bulma-dialog",
+  "keywords": [
+    "vue",
+    "bulma",
+    "vue-bulma",
+    "vue-bulma-component",
+    "vue-bulma-dialog",
+    "dialog"
+  ],
+  "author": "Nfer Zhuang <nfer.zhuang@gmail.com>",
+  "license": "MIT"
+}
