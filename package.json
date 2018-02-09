@@ -1,8 +1,8 @@
 {
   "name": "vue-bulma-dialog2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Dialog component for Vue Bulma",
-  "main": "src/Dialog.vue",
+  "main": "src/vue-bulma-dialog.js",
   "peerDependencies": {
     "bulma": ">=0.2",
     "vue": ">=2"
